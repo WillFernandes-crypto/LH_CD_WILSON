@@ -35,4 +35,4 @@ O modelo treinado é salvo no formato .pkl para uso futuro. Para salvar o modelo
 Para mais informações, entre em contato com [wilsonfernandes390@gmail.com]
 
 ## Video
-[Video de Explicação](drive.com)
+[Video de Explicação]([drive.com](https://drive.google.com/file/d/1OZaS8ZdXqF5BTgvQa_ToJO5IsNfIs9jp/view?usp=sharing))
